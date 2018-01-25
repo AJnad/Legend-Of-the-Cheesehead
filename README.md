@@ -1,4 +1,4 @@
-CHEESELANTIS
+Legend of the Cheesehead
 ------------
 
 This game is a variation of the beloved arcade game Pacman! But this time, you must embark on a journey to find the long lost city of Chesselantis which is a city made of cheese. But you must go past the Guardians who protect Cheeselantis and you must deactivate the traps. When deactivating the traps, you will come across a question and you must be able to answer it properly. If you do, you will successfully deactivate the trap and you can continue to deactivate the others. But if you do not answer the question correctly, the trap
